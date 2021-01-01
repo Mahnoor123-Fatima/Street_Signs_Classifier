@@ -19,6 +19,7 @@ The dataset used in the project is open source and available on bitbucket to dow
 
 ## Images and Distribution:
 You can see below a sample of the images from the dataset, with labels displayed above the row of corresponding images. Some of them are quite dark so we will look to improve contrast a bit later.
+<img src="https://github.com/Mahnoor123-Fatima/Street_Signs_Classifier/blob/main/images.png">
 
 ## Requirements
 Type below command in cmd to get up and running with the dependencies of the file.
